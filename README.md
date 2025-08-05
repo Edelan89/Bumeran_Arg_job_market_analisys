@@ -36,7 +36,8 @@ The analysis includes:
 - Company frequency by job volume.
 - Top job titles in the Sales / Commercial sector.
 
-You can see the PDF summary [here](./Bumeran_Arg_job_market_analisys.pdf).
+You can see the PDF summary [https://github.com/Edelan89/Bumeran_Arg_job_market_analisys/blob/main/Bumeran_Arg_job_market_analisys.pdf](./Bumeran_Arg_job_market_analisys.pdf).
+Or in HTML format [https://github.com/Edelan89/Bumeran_Arg_job_market_analisys/blob/main/Bumeran_Arg_job_market_analisys.html](./Bumeran_Arg_job_market_analisys.html).
 
 ## 📌 Key Insights
 
@@ -70,10 +71,10 @@ This project was a great opportunity to practice:
 
 ## 🧠 Author
 
-**Maximiliano Pérez Fernández**  
+**Maximiliano Mauricio Pérez Fernández**  
 📍 Argentina  
 💼 Data Analyst & Tech Explorer  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui) | [Portfolio](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/maximiliano-mauricio-perez-fernandez-a24878a4/) | [Portfolio](https://github.com/Edelan89)
 
 ---
 
